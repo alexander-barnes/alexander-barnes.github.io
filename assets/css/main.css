@@ -2642,6 +2642,18 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 			width: 13em;
 		}
+        #header i {
+            font-size: 3em;
+            color: white;
+        }
+        #header #header-title {
+
+            vertical-align: middle;
+        }
+        #header #inner-header {
+            padding-bottom: 30px;
+        }
+        
 
 /* Footer */
 
